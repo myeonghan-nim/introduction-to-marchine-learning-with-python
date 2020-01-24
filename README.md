@@ -21,3 +21,15 @@
   - 1.5 python 2 vs python 3
 
   - 1.6 SW version of using SWs in this book
+
+  - 1.7 The first machine learning application: iris classification
+
+  - 1.8 Summary
+
+- chapter02. Supervised Learning
+
+  - 2.1 Classification and Regression
+
+  - 2.2 Normalization, Over fitting, Under fitting
+
+  - 2.3 Supervised learning algorithms
